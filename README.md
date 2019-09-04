@@ -1,1 +1,7 @@
-# Goede-titel-267b38e4
+
+<!doctype html>
+<html>
+  <head>
+    <title>Document title</title>
+  </head>
+</html>
